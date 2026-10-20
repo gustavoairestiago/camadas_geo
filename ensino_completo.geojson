@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "ensino_completo",
+"features": [
+{ "type": "Feature", "properties": { "nome": "Escola Municipal Carlos Drummond de Andrade", "endereco": "Rua Corjesu Simão Teixeira, 83 - Nova Era, Juiz de Fora", "abrev": "E.M. Carlos Drummond" }, "geometry": { "type": "Point", "coordinates": [ -43.4244453, -21.710905 ] } },
+{ "type": "Feature", "properties": { "nome": "Escola Municipal Professora Thereza Falci", "endereco": "Rua Tenente Guimarães, 398 - Santa Luzia, Juiz de Fora", "abrev": "E.M. Profa Thereza Falci" }, "geometry": { "type": "Point", "coordinates": [ -43.4197934, -21.7111781 ] } },
+{ "type": "Feature", "properties": { "nome": "Colégio Militar de Juiz de Fora", "endereco": "Avenida Presidente Juscelino Kubitschek, 5200 - Nova Era, Juiz de Fora", "abrev": "Col. Militar de Juiz de Fora" }, "geometry": { "type": "Point", "coordinates": [ -43.4182819, -21.7030256 ] } },
+{ "type": "Feature", "properties": { "nome": "Apogeu Zona Norte - Da Educação Infantil ao Ensino Médio", "endereco": "Avenida Doutor Simeão de Faria, 291 - Santa Cruz, Juiz de Fora", "abrev": "Apogeu Zona Norte" }, "geometry": { "type": "Point", "coordinates": [ -43.427495, -21.7010775 ] } },
+{ "type": "Feature", "properties": { "nome": "Centro Educativo Mundo Encantado e Colégio Pirâmide", "endereco": "Rua Guimarães Júnior, 146 - Nova Era, Juiz de Fora", "abrev": "Col. Pirâmide" }, "geometry": { "type": "Point", "coordinates": [ -43.4258387, -21.7032354 ] } },
+{ "type": "Feature", "properties": { "nome": "Centro Integrado Arco-Íris", "endereco": "Rua Doutor Dias da Cruz, 400 - Nova Era, Juiz de Fora", "abrev": "Centro Integrado Arco-Íris" }, "geometry": { "type": "Point", "coordinates": [ -43.422111, -21.7040995 ] } },
+{ "type": "Feature", "properties": { "nome": "Colégio CNX - infantil, fundamental e médio - contraturno - integral", "endereco": "Avenida Presidente Juscelino Kubitschek, 5187 - Benfica, Juiz de Fora", "abrev": "Colégio CNX" }, "geometry": { "type": "Point", "coordinates": [ -43.420363, -21.703273 ] } },
+{ "type": "Feature", "properties": { "nome": "Escola Municipal Cecília Meireles", "endereco": "Rua João Evangelista dos Santos, 21 - Nova Era, Juiz de Fora", "abrev": "E.M. Cecília Meireles" }, "geometry": { "type": "Point", "coordinates": [ -43.4202149, -21.7053388 ] } }
+]
+}
